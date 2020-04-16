@@ -1,6 +1,6 @@
 # Storm Collection
 
-Same as Storm Viewer but using UICollectionView instead of UITableView.
+Same as [Storm Viewer](https://github.com/ramory-l/Storm-Viewer) but using UICollectionView instead of UITableView.
 
 ## Built With
 
