@@ -1,6 +1,6 @@
-# Storm Viewer
+# Storm Collection
 
-You can browse cool storm photos with this app.
+Same as Storm Viewer but using UICollectionView instead of UITableView.
 
 ## Built With
 
